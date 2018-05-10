@@ -6,9 +6,9 @@ var onion = new Image();
 var bg = new Image();
 var box1 = new Image();
 
-onion.src = "images/onion.png";
-bg.src = "images/bg.png";
-box1.src = "images/box1.png";
+onion.src = "onion.png";
+bg.src = "bg.png";
+box1.src = "box1.png";
 
 
 // some variables
