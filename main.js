@@ -4,12 +4,10 @@ var ctx = document.getElementById('ctx').getContext('2d');
 var onion = new Image();
 var bg = new Image();
 var box1 = new Image();
-var sound1 = new Audio();
 
 onion.src = 'onion.png';
 bg.src = 'bg.png';
 box1.src = 'box1.png';
-sound1.src = 'sound1.mp3';
 
 // some variables
 var onX = 0;
